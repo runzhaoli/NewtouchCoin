@@ -1,0 +1,1 @@
+geth --identity "nott"  --datadir eth_chain/privatechain/data0 --networkid 321300 --nodiscover --rpc --port "30303" --rpcapi "db,eth,net,web3,miner,admin,personal" --rpcport "8080" --rpcaddr '127.0.0.1'  console
